@@ -1,4 +1,17 @@
-![]("Hi%20there.png")
+![](Hi%20there.png)
+
+I am a Java Backend Developer focused on building reliable systems with Spring Boot, REST APIs, and databases ⚙️
+
+I started with Java and gained real-world experience through internships and commercial work, primarily working with Java backend development, CI/CD processes, and test execution using tools like Jenkins 💼
+
+In parallel, I expanded my skills through university projects, including IoT integrations and full-stack applications.
+
+What really defines me is how I approach ideas. If something excites me, I don’t just explore it — I commit to it 🔥
+During my Master’s studies, I independently built a VR game as part of a semester project using C# and Unity, with no prior experience in game development 🎮
+I had an idea and a story I wanted to bring to life — and I did.
+
+I enjoy stepping outside my comfort zone, learning fast, and turning ideas into real, working products 🚀
+
 --
 
 
