@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Hi%20there.png" width="500"/>
+  <img src="img.png"/>
 </p>
 
 I am a Java Backend Developer focused on building reliable systems with Spring Boot, REST APIs, and databases ⚙️
@@ -13,6 +13,7 @@ During my Master’s studies, I independently built a VR game as part of a semes
 I had an idea and a story I wanted to bring to life — and I did.
 
 I enjoy stepping outside my comfort zone, learning fast, and turning ideas into real, working products 🚀
+
 ---
 
 
